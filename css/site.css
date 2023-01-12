@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-toggler {
-    visibility: hidden;
+    opacity: 0;
 }
 
 .content {
