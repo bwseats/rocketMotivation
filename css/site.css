@@ -100,7 +100,7 @@ body {
 @media (min-width: 768px) {
     body {
         height: 100vh;
-        background-image: url("/img/LandingPage_1200.png");
+        background-image: url("/img/LandingPage_992.png");
     }
 
     .cta-title {
@@ -115,7 +115,6 @@ body {
         letter-spacing: 0.2rem;
         align-items: center;
     }
-}
 }
 
 /* Large devices (desktops, 992px and up) */
